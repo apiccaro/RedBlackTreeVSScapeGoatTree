@@ -6,8 +6,10 @@ A more detailed README of how to run the Jupyter Notebooks and visualization is 
 Contributors:
 
 Fremont Forseberg:
-Created the tests to compare efficiency and the graphing models, as well as finalized the AVL tree we started in class.\n
+Created the tests to compare efficiency and the graphing models, as well as finalized the AVL tree we started in class.
+
 Lucy Flannagan:
-Coded a Scape Goat tree from scratch.\n
+Coded a Scape Goat tree from scratch.
+
 Annika Piccaro:
-Coded a Red Black tree from scratch and created the visualization software.\n
+Coded a Red Black tree from scratch and created the visualization software.
