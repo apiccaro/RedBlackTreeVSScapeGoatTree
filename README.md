@@ -10,4 +10,4 @@ Created the tests to compare efficiency and the graphing models, as well as fina
 Lucy Flannagan:
 Coded a Scape Goat tree from scratch.\n
 Annika Piccaro:
-Coded a Red Black tree from scratch and created the visualization software.
+Coded a Red Black tree from scratch and created the visualization software.\n
