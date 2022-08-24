@@ -1,5 +1,7 @@
 # RedBlackTreeVSScapeGoatTree
-A comparison between 3 self balancing trees: AVL Trees, Red Black Trees and Scape Goat Trees. We compared their efficiency in regards to number of rotations, time to insert and time to search.
+A comparison between 3 self balancing trees: AVL Trees, Red Black Trees and Scape Goat Trees. We compared their efficiency in regards to number of rotations, time to insert and time to search. We completed this exploration in each function to ultimately determine the most efficient self balancing tree. 
+
+
 Included in each tree is a visualization software that creates .png files to see what nodes are added and how they are sorted.
 A more detailed README of how to run the Jupyter Notebooks and visualization is in pdf form. 
 
