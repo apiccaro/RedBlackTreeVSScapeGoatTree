@@ -1,5 +1,5 @@
 # RedBlackTreeVSScapeGoatTree
-A comparison between 3 self balancing trees: AVL Trees, Red Black Trees and Scape Goat Trees. We compared their efficiency in regards to number of rotations, time to insert and time to search. We completed this exploration in each function to ultimately determine the most efficient self balancing tree. 
+A comparison between 3 self balancing trees: AVL Trees, Red Black Trees and Scape Goat Trees. This discussion compares the trees efficiency to sort large amounts of data. We tested this by counting the number of rotations, time to insert and time to search in each tree with the same amount of data. We completed this exploration in each function to ultimately determine the most efficient self balancing tree of the three. By plotting the number of rotations, time to insert and time to search versus the size of data over several iterations of exponentially increasing sizes of data, we were able to determine which tree is most efficient: 
 
 
 Included in each tree is a visualization software that creates .png files to see what nodes are added and how they are sorted.
